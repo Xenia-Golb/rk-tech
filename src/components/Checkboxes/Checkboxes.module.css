@@ -1,0 +1,9 @@
+.checkboxes {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.checkbox {
+    gap: 10px;
+}
